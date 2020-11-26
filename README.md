@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My Homepage: [WANG Hailin's Personal Homepage](hailin-jing.com)
+My Homepage: [WANG Hailin's Personal Homepage](https://hailin-jing.com)
 
 <!--
 **Hailin-Jing/Hailin-Jing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
